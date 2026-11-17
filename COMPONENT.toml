@@ -3,7 +3,7 @@ name = "SigmaOS-journald"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "journald component"
+description = "Journald"
 upstream = []
 
 [contract]
